@@ -1,4 +1,4 @@
-# Project 1: Java Selenium UI Automation Framework (Core Foundation)
+# Java Selenium UI Automation Framework (Core Foundation)
 
 A complete UI automation framework for a sample web application (login, forms, tables).
 
